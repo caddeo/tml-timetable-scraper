@@ -1,0 +1,384 @@
+,artist_name,stage_name,day_id,day_name,timeslot_start,timeslot_end
+0,Chiara Meloni,The Gathering,135,Thursday 27 July 2023,13:30:00,14:15:00
+1,Muze,The Gathering,135,Thursday 27 July 2023,14:15:00,15:00:00
+2,Boy,The Gathering,135,Thursday 27 July 2023,15:00:00,15:45:00
+3,Prinz,The Gathering,135,Thursday 27 July 2023,15:45:00,16:30:00
+4,BDC,The Gathering,135,Thursday 27 July 2023,16:30:00,17:15:00
+5,Mademoiselle Luna,The Gathering,135,Thursday 27 July 2023,17:15:00,18:00:00
+6,Meaghan,The Gathering,135,Thursday 27 July 2023,18:00:00,18:45:00
+7,Omdat Het Kan Soundsystem ft. Average Rob,The Gathering,135,Thursday 27 July 2023,18:45:00,19:30:00
+8,Henri PFR,The Gathering,135,Thursday 27 July 2023,19:30:00,20:15:00
+9,Andromedik,The Gathering,135,Thursday 27 July 2023,20:15:00,21:00:00
+10,Surprise,The Gathering,135,Thursday 27 July 2023,21:00:00,22:00:00
+11,Surprise,The Gathering,135,Thursday 27 July 2023,22:00:00,22:45:00
+12,Yves V vs Regi,The Gathering,135,Thursday 27 July 2023,22:45:00,23:30:00
+13,MANDY,The Gathering,135,Thursday 27 July 2023,23:30:00,00:00:00
+14,Daybreak session: Claptone,Mainstage,136,Friday 28 July 2023,12:00:00,14:30:00
+15,Brina Knauss,Mainstage,136,Friday 28 July 2023,14:30:00,15:30:00
+16,Matisse & Sadko,Mainstage,136,Friday 28 July 2023,15:30:00,16:30:00
+17,Öwnboss,Mainstage,136,Friday 28 July 2023,16:30:00,17:30:00
+18,Purple Disco Machine,Mainstage,136,Friday 28 July 2023,17:35:00,18:35:00
+19,B Jones,Mainstage,136,Friday 28 July 2023,18:40:00,19:40:00
+20,Dom Dolla,Mainstage,136,Friday 28 July 2023,19:40:00,20:40:00
+21,Kölsch,Mainstage,136,Friday 28 July 2023,20:40:00,21:40:00
+22,Steve Angello & Sebastian Ingrosso,Mainstage,136,Friday 28 July 2023,21:45:00,22:45:00
+23,Tiësto,Mainstage,136,Friday 28 July 2023,22:50:00,23:50:00
+24,Hardwell,Mainstage,136,Friday 28 July 2023,23:50:00,00:50:00
+25,Goldfox,Freedom,136,Friday 28 July 2023,12:00:00,13:30:00
+26,Jeroen Delodder,Freedom,136,Friday 28 July 2023,13:30:00,15:00:00
+27,Joyhauser,Freedom,136,Friday 28 July 2023,15:00:00,16:30:00
+28,Amber Broos,Freedom,136,Friday 28 July 2023,16:30:00,18:00:00
+29,KAS:ST,Freedom,136,Friday 28 July 2023,18:00:00,19:30:00
+30,HI-LO,Freedom,136,Friday 28 July 2023,19:30:00,21:00:00
+31,Joris Voorn,Freedom,136,Friday 28 July 2023,21:00:00,23:00:00
+32,Eric Prydz presents HOLO,Freedom,136,Friday 28 July 2023,23:00:00,00:30:00
+33,Primate,The Rose Garden,136,Friday 28 July 2023,12:00:00,13:00:00
+34,Lexurus,The Rose Garden,136,Friday 28 July 2023,13:00:00,14:00:00
+35,Jeanie,The Rose Garden,136,Friday 28 July 2023,14:00:00,15:00:00
+36,Turno & Dreps,The Rose Garden,136,Friday 28 July 2023,15:00:00,16:00:00
+37,Skepsis & Darkzy,The Rose Garden,136,Friday 28 July 2023,16:00:00,17:00:00
+38,Calcium B2B Layz,The Rose Garden,136,Friday 28 July 2023,17:00:00,18:00:00
+39,Metrik,The Rose Garden,136,Friday 28 July 2023,18:00:00,19:00:00
+40,Murdock,The Rose Garden,136,Friday 28 July 2023,19:00:00,20:00:00
+41,Mollie Collins,The Rose Garden,136,Friday 28 July 2023,20:00:00,21:00:00
+42,Andy C & Tonn Piper,The Rose Garden,136,Friday 28 July 2023,21:00:00,22:00:00
+43,USED,The Rose Garden,136,Friday 28 July 2023,22:00:00,23:00:00
+44,A.M.C ft Phantom,The Rose Garden,136,Friday 28 July 2023,23:00:00,00:00:00
+45,DJ Chanelle,Elixir,136,Friday 28 July 2023,13:00:00,14:30:00
+46,DJ Sahra,Elixir,136,Friday 28 July 2023,14:30:00,16:00:00
+47,Eagl,Elixir,136,Friday 28 July 2023,16:00:00,17:30:00
+48,Flavour Drop,Elixir,136,Friday 28 July 2023,17:30:00,18:30:00
+49,KEVIN KOFII,Elixir,136,Friday 28 July 2023,18:30:00,19:30:00
+50,Nina Black,Elixir,136,Friday 28 July 2023,19:30:00,20:30:00
+51,Kwijt Trek System,Elixir,136,Friday 28 July 2023,20:30:00,22:00:00
+52,Rick & James 80’s Party,Elixir,136,Friday 28 July 2023,22:00:00,23:30:00
+53,DJ Creator,Elixir,136,Friday 28 July 2023,23:30:00,01:00:00
+54,Ender vs Massive Disorder,Cage,136,Friday 28 July 2023,12:00:00,13:00:00
+55,Rayzen,Cage,136,Friday 28 July 2023,13:00:00,14:00:00
+56,Mish,Cage,136,Friday 28 July 2023,14:00:00,15:00:00
+57,Hysta,Cage,136,Friday 28 July 2023,15:00:00,16:00:00
+58,Broken Minds,Cage,136,Friday 28 July 2023,16:00:00,17:00:00
+59,Detest vs eDUB,Cage,136,Friday 28 July 2023,17:00:00,18:00:00
+60,DRS vs Sandy Warez,Cage,136,Friday 28 July 2023,18:00:00,19:00:00
+61,Dimitri K,Cage,136,Friday 28 July 2023,19:00:00,20:00:00
+62,Lunakorpz,Cage,136,Friday 28 July 2023,20:00:00,21:00:00
+63,Unicorn on Keta,Cage,136,Friday 28 July 2023,21:00:00,22:00:00
+64,MBK vs NSD,Cage,136,Friday 28 July 2023,22:00:00,23:00:00
+65,Structure,The Rave Cave,136,Friday 28 July 2023,13:00:00,14:00:00
+66,Bram Delux,The Rave Cave,136,Friday 28 July 2023,14:00:00,15:00:00
+67,DJ Luk,The Rave Cave,136,Friday 28 July 2023,15:00:00,16:00:00
+68,Bros Rodriguez,The Rave Cave,136,Friday 28 July 2023,16:00:00,17:00:00
+69,PartyShakerz,The Rave Cave,136,Friday 28 July 2023,17:00:00,18:30:00
+70,DJ Kat,The Rave Cave,136,Friday 28 July 2023,18:30:00,19:30:00
+71,Funk D,The Rave Cave,136,Friday 28 July 2023,19:30:00,20:30:00
+72,Dimitri Wouters,The Rave Cave,136,Friday 28 July 2023,20:30:00,22:00:00
+73,Double-U,The Rave Cave,136,Friday 28 July 2023,22:00:00,23:00:00
+74,Winterclubbing All Stars,The Rave Cave,136,Friday 28 July 2023,23:00:00,00:00:00
+75,Rdeem,Youphoria,136,Friday 28 July 2023,13:00:00,14:30:00
+76,Firaga,Youphoria,136,Friday 28 July 2023,14:30:00,15:30:00
+77,Fabio Fusco,Youphoria,136,Friday 28 July 2023,15:30:00,17:00:00
+78,WHITENO1SE,Youphoria,136,Friday 28 July 2023,17:00:00,18:30:00
+79,Skazi,Youphoria,136,Friday 28 July 2023,18:30:00,19:45:00
+80,Blastoyz,Youphoria,136,Friday 28 July 2023,19:45:00,21:00:00
+81,Vegas,Youphoria,136,Friday 28 July 2023,21:00:00,22:30:00
+82,Neelix,Youphoria,136,Friday 28 July 2023,22:30:00,23:50:00
+83,Calao,Terra Solis,136,Friday 28 July 2023,12:30:00,14:30:00
+84,Nick Bril,Terra Solis,136,Friday 28 July 2023,14:30:00,16:30:00
+85,Re.You,Terra Solis,136,Friday 28 July 2023,16:30:00,18:30:00
+86,Biesmans Live,Terra Solis,136,Friday 28 July 2023,18:30:00,19:30:00
+87,Eelke Kleijn,Terra Solis,136,Friday 28 July 2023,19:30:00,21:30:00
+88,Nico Morano,Terra Solis,136,Friday 28 July 2023,21:30:00,23:30:00
+89,Max Goldrusher,Rise,136,Friday 28 July 2023,12:30:00,13:30:00
+90,DJ Renee,Rise,136,Friday 28 July 2023,13:30:00,14:30:00
+91,Maite Dedecker,Rise,136,Friday 28 July 2023,14:30:00,15:30:00
+92,DJ Pombak,Rise,136,Friday 28 July 2023,15:30:00,16:30:00
+93,DJ Yolotanker,Rise,136,Friday 28 July 2023,16:30:00,17:30:00
+94,Omdat Het Kan Soundsystem ft. Average Rob,Rise,136,Friday 28 July 2023,17:30:00,18:30:00
+95,Gladde Paling,Rise,136,Friday 28 July 2023,18:30:00,19:30:00
+96,Dikke Baap,Rise,136,Friday 28 July 2023,19:30:00,20:30:00
+97,Michael Amani,Rise,136,Friday 28 July 2023,20:30:00,21:30:00
+98,Vieze Asbak,Rise,136,Friday 28 July 2023,21:30:00,22:30:00
+99,Natte Visstick,Rise,136,Friday 28 July 2023,22:30:00,23:30:00
+100,Vissa Collectief,Rise,136,Friday 28 July 2023,23:30:00,00:00:00
+101,Amekmar,Atmosphere,136,Friday 28 July 2023,12:00:00,13:30:00
+102,VE/RA,Atmosphere,136,Friday 28 July 2023,13:30:00,14:30:00
+103,Klaps,Atmosphere,136,Friday 28 July 2023,14:30:00,16:00:00
+104,Patrick Mason,Atmosphere,136,Friday 28 July 2023,16:00:00,17:30:00
+105,999999999,Atmosphere,136,Friday 28 July 2023,17:30:00,19:00:00
+106,Hector Oaks,Atmosphere,136,Friday 28 July 2023,19:00:00,20:30:00
+107,I Hate Models,Atmosphere,136,Friday 28 July 2023,20:30:00,22:00:00
+108,Nina Kraviz,Atmosphere,136,Friday 28 July 2023,22:00:00,23:30:00
+109,Diøn,Atmosphere,136,Friday 28 July 2023,23:30:00,01:00:00
+110,Olympe,Core,136,Friday 28 July 2023,12:30:00,14:30:00
+111,Dyzen,Core,136,Friday 28 July 2023,14:30:00,16:30:00
+112,Amémé,Core,136,Friday 28 July 2023,16:30:00,18:00:00
+113,Dino Lenny,Core,136,Friday 28 July 2023,18:00:00,19:30:00
+114,HAAi,Core,136,Friday 28 July 2023,19:30:00,21:00:00
+115,Trikk b2b Jimi Jules,Core,136,Friday 28 July 2023,21:00:00,23:00:00
+116,Mind Against,Core,136,Friday 28 July 2023,23:00:00,01:00:00
+117,Neon,Crystal Garden,136,Friday 28 July 2023,12:00:00,13:00:00
+118,Tita Lau,Crystal Garden,136,Friday 28 July 2023,13:00:00,14:30:00
+119,Korolova,Crystal Garden,136,Friday 28 July 2023,14:30:00,16:00:00
+120,Vintage Culture,Crystal Garden,136,Friday 28 July 2023,16:00:00,18:00:00
+121,Meduza,Crystal Garden,136,Friday 28 July 2023,18:00:00,20:00:00
+122,Claptone,Crystal Garden,136,Friday 28 July 2023,20:00:00,22:00:00
+123,James Hype,Crystal Garden,136,Friday 28 July 2023,22:00:00,00:00:00
+124,Meaghan,The Library,136,Friday 28 July 2023,12:00:00,13:00:00
+125,Lennert Wolfs,The Library,136,Friday 28 July 2023,13:00:00,14:00:00
+126,La Fuente,The Library,136,Friday 28 July 2023,14:00:00,15:00:00
+127,Michenlo,The Library,136,Friday 28 July 2023,15:00:00,16:00:00
+128,Cat Dealers,The Library,136,Friday 28 July 2023,16:00:00,17:00:00
+129,Topic,The Library,136,Friday 28 July 2023,17:00:00,18:00:00
+130,Lucas & Steve,The Library,136,Friday 28 July 2023,18:00:00,19:00:00
+131,Henri PFR,The Library,136,Friday 28 July 2023,19:00:00,20:00:00
+132,Ofenbach,The Library,136,Friday 28 July 2023,20:00:00,21:00:00
+133,Mike Williams,The Library,136,Friday 28 July 2023,21:00:00,22:00:00
+134,Nicky Romero,The Library,136,Friday 28 July 2023,22:00:00,23:00:00
+135,Sub Zero Project,The Library,136,Friday 28 July 2023,23:00:00,23:45:00
+136,Ran-D,The Library,136,Friday 28 July 2023,23:45:00,00:20:00
+137,Sefa,The Library,136,Friday 28 July 2023,00:20:00,00:50:00
+138,Q-Dance Endshow,The Library,136,Friday 28 July 2023,00:50:00,01:00:00
+139,Filip,Moosebar,136,Friday 28 July 2023,12:00:00,16:00:00
+140,Tom Cosyns,Moosebar,136,Friday 28 July 2023,16:00:00,19:00:00
+141,Christoff,Moosebar,136,Friday 28 July 2023,19:00:00,20:00:00
+142,Funkhauser,Moosebar,136,Friday 28 July 2023,20:00:00,00:00:00
+143,Daybreak session: Laidback Luke presents Wayback Luke,Mainstage,137,Saturday 29 July 2023,12:00:00,14:50:00
+144,Warrior Workout by Q-dance,Mainstage,137,Saturday 29 July 2023,14:50:00,15:20:00
+145,Carola,Mainstage,137,Saturday 29 July 2023,15:15:00,16:15:00
+146,Goodboys,Mainstage,137,Saturday 29 July 2023,16:15:00,17:15:00
+147,Yves V & Regi,Mainstage,137,Saturday 29 July 2023,17:20:00,18:20:00
+148,NERVO,Mainstage,137,Saturday 29 July 2023,18:25:00,19:25:00
+149,John Newman,Mainstage,137,Saturday 29 July 2023,19:25:00,20:25:00
+150,Tale Of Us,Mainstage,137,Saturday 29 July 2023,20:25:00,21:25:00
+151,Armin van Buuren,Mainstage,137,Saturday 29 July 2023,21:30:00,22:30:00
+152,Dimitri Vegas & Like Mike,Mainstage,137,Saturday 29 July 2023,22:35:00,23:50:00
+153,Steve Aoki,Mainstage,137,Saturday 29 July 2023,23:50:00,00:50:00
+154,Maxim Lany,Freedom,137,Saturday 29 July 2023,12:00:00,14:30:00
+155,Ann Clue,Freedom,137,Saturday 29 July 2023,14:30:00,16:00:00
+156,Boris Brejcha in concert,Freedom,137,Saturday 29 July 2023,16:00:00,19:00:00
+157,Yves Deruyter,Freedom,137,Saturday 29 July 2023,19:00:00,20:30:00
+158,Adam Beyer & Maceo Plex,Freedom,137,Saturday 29 July 2023,20:30:00,22:30:00
+159,Reinier Zonneveld,Freedom,137,Saturday 29 July 2023,22:30:00,00:30:00
+160,DJ Liberty,The Rose Garden,137,Saturday 29 July 2023,13:00:00,14:00:00
+161,Anonymize,The Rose Garden,137,Saturday 29 July 2023,14:00:00,15:00:00
+162,DJ Bountyhunter,The Rose Garden,137,Saturday 29 July 2023,15:00:00,16:00:00
+163,Franky Jones,The Rose Garden,137,Saturday 29 July 2023,16:00:00,17:00:00
+164,Furax,The Rose Garden,137,Saturday 29 July 2023,17:00:00,18:00:00
+165,Jan Vervloet,The Rose Garden,137,Saturday 29 July 2023,18:00:00,19:00:00
+166,DJ Ghost,The Rose Garden,137,Saturday 29 July 2023,19:00:00,20:00:00
+167,Franky Kloeck,The Rose Garden,137,Saturday 29 July 2023,20:00:00,21:00:00
+168,Greg S,The Rose Garden,137,Saturday 29 July 2023,21:00:00,22:30:00
+169,PUSH,The Rose Garden,137,Saturday 29 July 2023,22:30:00,23:30:00
+170,Bonzai All Stars,The Rose Garden,137,Saturday 29 July 2023,23:30:00,01:00:00
+171,Bennie Disko,Elixir,137,Saturday 29 July 2023,13:00:00,14:30:00
+172,Aiscream,Elixir,137,Saturday 29 July 2023,14:30:00,16:00:00
+173,La June,Elixir,137,Saturday 29 July 2023,16:00:00,17:00:00
+174,Raywell,Elixir,137,Saturday 29 July 2023,17:00:00,18:30:00
+175,Gullie,Elixir,137,Saturday 29 July 2023,18:30:00,19:00:00
+176,FeestDJRuud,Elixir,137,Saturday 29 July 2023,19:00:00,20:30:00
+177,Otto Wunderbar,Elixir,137,Saturday 29 July 2023,20:30:00,21:00:00
+178,Disco Danny,Elixir,137,Saturday 29 July 2023,21:00:00,22:00:00
+179,Irwan,Elixir,137,Saturday 29 July 2023,22:00:00,23:00:00
+180,Mr Belt & Wezol,Elixir,137,Saturday 29 July 2023,23:00:00,00:00:00
+181,LNY TNZ,Elixir,137,Saturday 29 July 2023,00:00:00,01:00:00
+182,Novah,Cage,137,Saturday 29 July 2023,12:00:00,14:00:00
+183,Noneoftheabove,Cage,137,Saturday 29 July 2023,14:00:00,15:30:00
+184,SHLØMO,Cage,137,Saturday 29 July 2023,15:30:00,17:00:00
+185,Cassie Raptor,Cage,137,Saturday 29 July 2023,17:00:00,19:00:00
+186,Paolo Ferrara,Cage,137,Saturday 29 July 2023,19:00:00,21:00:00
+187,Lorenzo Raganzini,Cage,137,Saturday 29 July 2023,21:00:00,23:00:00
+188,Dj SOME,The Rave Cave,137,Saturday 29 July 2023,12:00:00,13:30:00
+189,Psytox,The Rave Cave,137,Saturday 29 July 2023,13:30:00,15:00:00
+190,Alexa Borzyk,The Rave Cave,137,Saturday 29 July 2023,15:00:00,16:30:00
+191,Helsmoortel,The Rave Cave,137,Saturday 29 July 2023,16:30:00,18:00:00
+192,Steya,The Rave Cave,137,Saturday 29 July 2023,18:00:00,19:30:00
+193,TRiXY,The Rave Cave,137,Saturday 29 July 2023,19:30:00,21:00:00
+194,Remy-X Live,The Rave Cave,137,Saturday 29 July 2023,21:00:00,22:00:00
+195,Pako Marckx,The Rave Cave,137,Saturday 29 July 2023,22:00:00,23:30:00
+196,RPTR,The Rave Cave,137,Saturday 29 July 2023,23:30:00,01:00:00
+197,Senator,Youphoria,137,Saturday 29 July 2023,13:00:00,14:30:00
+198,Merow,Youphoria,137,Saturday 29 July 2023,14:30:00,16:00:00
+199,Afterthought,Youphoria,137,Saturday 29 July 2023,16:00:00,17:00:00
+200,Crankdat,Youphoria,137,Saturday 29 July 2023,17:00:00,18:00:00
+201,Sullivan King,Youphoria,137,Saturday 29 July 2023,18:00:00,19:00:00
+202,Koven,Youphoria,137,Saturday 29 July 2023,19:00:00,20:00:00
+203,WHIPPED CREAM,Youphoria,137,Saturday 29 July 2023,20:00:00,21:00:00
+204,DJ Diesel,Youphoria,137,Saturday 29 July 2023,21:00:00,22:00:00
+205,Jessica Audiffred,Youphoria,137,Saturday 29 July 2023,22:00:00,23:00:00
+206,12th Planet,Youphoria,137,Saturday 29 July 2023,23:00:00,00:00:00
+207,Luna & Lenthe,Terra Solis,137,Saturday 29 July 2023,12:00:00,13:30:00
+208,Naethan,Terra Solis,137,Saturday 29 July 2023,13:30:00,15:00:00
+209,Florentin,Terra Solis,137,Saturday 29 July 2023,15:00:00,16:30:00
+210,Khainz,Terra Solis,137,Saturday 29 July 2023,16:30:00,18:00:00
+211,Goom Gum,Terra Solis,137,Saturday 29 July 2023,18:00:00,19:30:00
+212,Undercatt,Terra Solis,137,Saturday 29 July 2023,19:30:00,21:00:00
+213,GLOWAL,Terra Solis,137,Saturday 29 July 2023,21:00:00,23:30:00
+214,DJ FLOW,Rise,137,Saturday 29 July 2023,12:30:00,13:30:00
+215,DJ Elfigo,Rise,137,Saturday 29 July 2023,13:30:00,14:30:00
+216,AMA LIA,Rise,137,Saturday 29 July 2023,14:30:00,15:30:00
+217,Bobby & Djenko,Rise,137,Saturday 29 July 2023,15:30:00,16:30:00
+218,Rio Tashan,Rise,137,Saturday 29 July 2023,16:30:00,18:00:00
+219,Mambo Brothers,Rise,137,Saturday 29 July 2023,18:00:00,19:30:00
+220,Ferreck Dawn,Rise,137,Saturday 29 July 2023,19:30:00,21:00:00
+221,SYREETA,Rise,137,Saturday 29 July 2023,21:00:00,22:30:00
+222,Gorgon City,Rise,137,Saturday 29 July 2023,22:30:00,23:50:00
+223,Heckman,Atmosphere,137,Saturday 29 July 2023,12:00:00,14:00:00
+224,AM.I,Atmosphere,137,Saturday 29 July 2023,14:00:00,16:00:00
+225,Symphony of Unity,Atmosphere,137,Saturday 29 July 2023,16:00:00,17:30:00
+226,Oscar L,Atmosphere,137,Saturday 29 July 2023,17:30:00,19:00:00
+227,Alex Stein,Atmosphere,137,Saturday 29 July 2023,19:00:00,21:00:00
+228,Victor Ruiz,Atmosphere,137,Saturday 29 July 2023,21:00:00,23:00:00
+229,Enrico Sangiuliano,Atmosphere,137,Saturday 29 July 2023,23:00:00,01:00:00
+230,Kappen,Core,137,Saturday 29 July 2023,12:30:00,14:00:00
+231,Mosley Jr,Core,137,Saturday 29 July 2023,14:00:00,15:30:00
+232,Capoon,Core,137,Saturday 29 July 2023,15:30:00,17:00:00
+233,Major League DJz,Core,137,Saturday 29 July 2023,17:00:00,19:00:00
+234,Holographic,Core,137,Saturday 29 July 2023,19:00:00,21:00:00
+235,Honey Dijon,Core,137,Saturday 29 July 2023,21:00:00,23:00:00
+236,Floorplan,Core,137,Saturday 29 July 2023,23:00:00,01:00:00
+237,Dylan Guaetta,Crystal Garden,137,Saturday 29 July 2023,12:00:00,13:30:00
+238,Laura van Dam,Crystal Garden,137,Saturday 29 July 2023,13:30:00,15:00:00
+239,Amy Wiles b2b Leena Punks,Crystal Garden,137,Saturday 29 July 2023,15:00:00,16:00:00
+240,Sunny Lax,Crystal Garden,137,Saturday 29 July 2023,16:00:00,17:00:00
+241,Anamē,Crystal Garden,137,Saturday 29 July 2023,17:00:00,18:00:00
+242,Alpha9,Crystal Garden,137,Saturday 29 July 2023,18:00:00,19:00:00
+243,Andrew Bayer,Crystal Garden,137,Saturday 29 July 2023,19:00:00,20:00:00
+244,Ilan Bluestone,Crystal Garden,137,Saturday 29 July 2023,20:00:00,21:00:00
+245,Mat Zo,Crystal Garden,137,Saturday 29 July 2023,21:00:00,22:00:00
+246,Above & Beyond,Crystal Garden,137,Saturday 29 July 2023,22:00:00,00:00:00
+247,Reygel,The Library,137,Saturday 29 July 2023,12:00:00,13:00:00
+248,Arodes,The Library,137,Saturday 29 July 2023,13:00:00,14:00:00
+249,Subshift,The Library,137,Saturday 29 July 2023,14:00:00,15:00:00
+250,Toolate Groove,The Library,137,Saturday 29 July 2023,15:00:00,16:00:00
+251,Throttle,The Library,137,Saturday 29 July 2023,16:00:00,17:00:00
+252,Pretty Pink,The Library,137,Saturday 29 July 2023,17:00:00,18:00:00
+253,Matroda,The Library,137,Saturday 29 July 2023,18:00:00,19:00:00
+254,Tony Romera,The Library,137,Saturday 29 July 2023,19:00:00,20:00:00
+255,Robin Schulz,The Library,137,Saturday 29 July 2023,20:00:00,21:00:00
+256,Kungs,The Library,137,Saturday 29 July 2023,21:00:00,22:00:00
+257,Lost Frequencies,The Library,137,Saturday 29 July 2023,22:00:00,23:00:00
+258,Tchami,The Library,137,Saturday 29 July 2023,23:00:00,00:00:00
+259,Netsky,The Library,137,Saturday 29 July 2023,00:00:00,01:00:00
+260,Rino,Moosebar,137,Saturday 29 July 2023,12:00:00,15:00:00
+261,Milano,Moosebar,137,Saturday 29 July 2023,15:00:00,19:00:00
+262,Schorre cheff & MC Vals,Moosebar,137,Saturday 29 July 2023,19:00:00,20:00:00
+263,Laurent Wery,Moosebar,137,Saturday 29 July 2023,20:00:00,00:00:00
+264,Daybreak Session: OWR Soundsystem,Mainstage,138,Sunday 30 July 2023,12:00:00,14:30:00
+265,Marten Hørger,Mainstage,138,Sunday 30 July 2023,14:30:00,15:30:00
+266,Andromedik,Mainstage,138,Sunday 30 July 2023,15:30:00,16:30:00
+267,Malaa,Mainstage,138,Sunday 30 July 2023,16:30:00,17:30:00
+268,Indira Paganotto,Mainstage,138,Sunday 30 July 2023,17:35:00,18:35:00
+269,Otto Knows,Mainstage,138,Sunday 30 July 2023,18:40:00,19:40:00
+270,R3hab & W&W,Mainstage,138,Sunday 30 July 2023,19:40:00,20:40:00
+271,Alesso,Mainstage,138,Sunday 30 July 2023,20:40:00,21:40:00
+272,Paul Kalkbrenner,Mainstage,138,Sunday 30 July 2023,21:45:00,22:45:00
+273,Martin Garrix,Mainstage,138,Sunday 30 July 2023,22:50:00,23:50:00
+274,Dave Lambert,Freedom,138,Sunday 30 July 2023,12:00:00,13:30:00
+275,YOUNOTUS,Freedom,138,Sunday 30 July 2023,13:30:00,14:30:00
+276,GORDO,Freedom,138,Sunday 30 July 2023,14:30:00,16:00:00
+277,Don Diablo,Freedom,138,Sunday 30 July 2023,16:00:00,17:30:00
+278,Sunnery James & Ryan Marciano,Freedom,138,Sunday 30 July 2023,17:30:00,18:30:00
+279,Steve Angello presents SIZE XX,Freedom,138,Sunday 30 July 2023,18:30:00,20:30:00
+280,Armin van Buuren,Freedom,138,Sunday 30 July 2023,20:30:00,23:30:00
+281,X-tof,The Rose Garden,138,Sunday 30 July 2023,13:00:00,14:30:00
+282,Yamo,The Rose Garden,138,Sunday 30 July 2023,14:30:00,16:00:00
+283,Romeo Blanco,The Rose Garden,138,Sunday 30 July 2023,16:00:00,17:00:00
+284,AN21,The Rose Garden,138,Sunday 30 July 2023,17:00:00,18:00:00
+285,Third Party,The Rose Garden,138,Sunday 30 July 2023,18:00:00,19:00:00
+286,Dannic,The Rose Garden,138,Sunday 30 July 2023,19:00:00,20:00:00
+287,Regi,The Rose Garden,138,Sunday 30 July 2023,20:00:00,21:00:00
+288,DJs FROM MARS,The Rose Garden,138,Sunday 30 July 2023,21:00:00,22:00:00
+289,Sidney Samson,The Rose Garden,138,Sunday 30 July 2023,22:00:00,23:00:00
+290,Bassjackers,The Rose Garden,138,Sunday 30 July 2023,23:00:00,00:00:00
+291,El Bacha ft Sam Renascent,Elixir,138,Sunday 30 July 2023,13:00:00,14:30:00
+292,Bart & Baker,Elixir,138,Sunday 30 July 2023,14:30:00,15:30:00
+293,Nicki Sanchez,Elixir,138,Sunday 30 July 2023,15:30:00,16:30:00
+294,Daddy K,Elixir,138,Sunday 30 July 2023,16:30:00,17:30:00
+295,Jeronimo & Leaux Reese,Elixir,138,Sunday 30 July 2023,17:30:00,18:30:00
+296,Crack-T,Elixir,138,Sunday 30 July 2023,18:30:00,19:30:00
+297,UNEAK ft Cosmic & Babybang,Elixir,138,Sunday 30 July 2023,19:30:00,21:00:00
+298,Lady S,Elixir,138,Sunday 30 July 2023,21:00:00,22:30:00
+299,The Knightriders,Elixir,138,Sunday 30 July 2023,22:30:00,00:00:00
+300,Captain Bass,Cage,138,Sunday 30 July 2023,14:00:00,15:00:00
+301,Natty Lou,Cage,138,Sunday 30 July 2023,15:00:00,16:00:00
+302,Cartoon,Cage,138,Sunday 30 July 2023,16:00:00,17:00:00
+303,Charlie Tee,Cage,138,Sunday 30 July 2023,17:00:00,18:00:00
+304,EJ Kitto,Cage,138,Sunday 30 July 2023,18:00:00,19:00:00
+305,Mozey,Cage,138,Sunday 30 July 2023,19:00:00,20:00:00
+306,Jamezy,Cage,138,Sunday 30 July 2023,20:00:00,21:00:00
+307,Alcemist,Cage,138,Sunday 30 July 2023,21:00:00,22:00:00
+308,DJ Marky,Cage,138,Sunday 30 July 2023,22:00:00,23:00:00
+309,Fuga,The Rave Cave,138,Sunday 30 July 2023,12:00:00,14:00:00
+310,Wannes Lenaers,The Rave Cave,138,Sunday 30 July 2023,14:00:00,16:00:00
+311,Ampe,The Rave Cave,138,Sunday 30 July 2023,16:00:00,18:00:00
+312,Keyser,The Rave Cave,138,Sunday 30 July 2023,18:00:00,20:00:00
+313,Oton,The Rave Cave,138,Sunday 30 July 2023,20:00:00,22:00:00
+314,Brennt und Klakmatrak,The Rave Cave,138,Sunday 30 July 2023,22:00:00,23:00:00
+315,Wørtaal,The Rave Cave,138,Sunday 30 July 2023,23:00:00,00:00:00
+316,BassBrain,Youphoria,138,Sunday 30 July 2023,13:00:00,14:00:00
+317,Refuzion,Youphoria,138,Sunday 30 July 2023,14:00:00,15:00:00
+318,Sound Rush,Youphoria,138,Sunday 30 July 2023,15:00:00,16:00:00
+319,MANDY,Youphoria,138,Sunday 30 July 2023,16:00:00,17:00:00
+320,Coone,Youphoria,138,Sunday 30 July 2023,17:00:00,18:00:00
+321,Da Tweekaz,Youphoria,138,Sunday 30 July 2023,18:00:00,19:00:00
+322,Darren Styles,Youphoria,138,Sunday 30 July 2023,19:00:00,20:00:00
+323,Hard Driver,Youphoria,138,Sunday 30 July 2023,20:00:00,21:00:00
+324,Rebelion,Youphoria,138,Sunday 30 July 2023,21:00:00,22:00:00
+325,Mark With a K & Mc Chucky,Youphoria,138,Sunday 30 July 2023,22:00:00,23:00:00
+326,Killshot,Youphoria,138,Sunday 30 July 2023,23:00:00,23:50:00
+327,Elenore,Terra Solis,138,Sunday 30 July 2023,12:30:00,13:30:00
+328,séa,Terra Solis,138,Sunday 30 July 2023,13:30:00,15:00:00
+329,PBH & Jack,Terra Solis,138,Sunday 30 July 2023,15:00:00,16:00:00
+330,DJ Licious,Terra Solis,138,Sunday 30 July 2023,16:00:00,17:30:00
+331,ODEN & FATZO,Terra Solis,138,Sunday 30 July 2023,17:30:00,19:00:00
+332,Biscits,Terra Solis,138,Sunday 30 July 2023,19:00:00,20:30:00
+333,Vato Gonzalez,Terra Solis,138,Sunday 30 July 2023,20:30:00,22:00:00
+334,Delafino B2B DJ Gee,Terra Solis,138,Sunday 30 July 2023,22:00:00,23:30:00
+335,To be announced,Rise,138,Sunday 30 July 2023,12:00:00,13:00:00
+336,Odssey,Rise,138,Sunday 30 July 2023,13:00:00,14:00:00
+337,Brian Cross & Abel Ramos,Rise,138,Sunday 30 July 2023,14:00:00,15:00:00
+338,Bhaskar,Rise,138,Sunday 30 July 2023,15:00:00,16:00:00
+339,Header,Rise,138,Sunday 30 July 2023,16:00:00,17:00:00
+340,Justus,Rise,138,Sunday 30 July 2023,17:00:00,18:00:00
+341,Kura,Rise,138,Sunday 30 July 2023,18:00:00,19:00:00
+342,Yves V,Rise,138,Sunday 30 July 2023,19:00:00,20:00:00
+343,Sevek,Rise,138,Sunday 30 July 2023,20:00:00,21:00:00
+344,Glockenbach,Rise,138,Sunday 30 July 2023,21:00:00,22:00:00
+345,Kris Kross Amsterdam,Rise,138,Sunday 30 July 2023,22:00:00,23:00:00
+346,Mariana Bo,Rise,138,Sunday 30 July 2023,23:00:00,00:00:00
+347,Herton,Atmosphere,138,Sunday 30 July 2023,12:30:00,14:30:00
+348,Ahl Iver Live,Atmosphere,138,Sunday 30 July 2023,14:30:00,15:30:00
+349,Farrago,Atmosphere,138,Sunday 30 July 2023,15:30:00,17:00:00
+350,Klangkuenstler,Atmosphere,138,Sunday 30 July 2023,17:00:00,18:30:00
+351,Kobosil,Atmosphere,138,Sunday 30 July 2023,18:30:00,20:30:00
+352,ANNA,Atmosphere,138,Sunday 30 July 2023,20:30:00,22:00:00
+353,Amelie Lens,Atmosphere,138,Sunday 30 July 2023,22:00:00,00:00:00
+354,Lilihell,Core,138,Sunday 30 July 2023,12:30:00,14:30:00
+355,DC Salas,Core,138,Sunday 30 July 2023,14:30:00,16:00:00
+356,Carlita,Core,138,Sunday 30 July 2023,16:00:00,18:00:00
+357,DJ Seinfeld,Core,138,Sunday 30 July 2023,18:00:00,20:00:00
+358,DJ Tennis,Core,138,Sunday 30 July 2023,20:00:00,22:00:00
+359,Âme,Core,138,Sunday 30 July 2023,22:00:00,00:00:00
+360,Emjie,Crystal Garden,138,Sunday 30 July 2023,12:00:00,14:00:00
+361,Hollt,Crystal Garden,138,Sunday 30 July 2023,14:00:00,16:00:00
+362,Massano,Crystal Garden,138,Sunday 30 July 2023,16:00:00,17:30:00
+363,Like Mike,Crystal Garden,138,Sunday 30 July 2023,17:30:00,19:00:00
+364,Kevin De Vries,Crystal Garden,138,Sunday 30 July 2023,19:00:00,20:30:00
+365,Adriatique,Crystal Garden,138,Sunday 30 July 2023,20:30:00,22:00:00
+366,Stephan Bodzin,Crystal Garden,138,Sunday 30 July 2023,22:00:00,23:30:00
+367,Suark,The Library,138,Sunday 30 July 2023,12:00:00,13:00:00
+368,Mr. Pig & Le Twins,The Library,138,Sunday 30 July 2023,13:00:00,14:00:00
+369,Sevenn,The Library,138,Sunday 30 July 2023,14:00:00,15:00:00
+370,Tungevaag,The Library,138,Sunday 30 July 2023,15:00:00,16:00:00
+371,Viktor & Kobe,The Library,138,Sunday 30 July 2023,16:00:00,17:00:00
+372,Ben Nicky,The Library,138,Sunday 30 July 2023,17:00:00,18:00:00
+373,Gabry Ponte,The Library,138,Sunday 30 July 2023,18:00:00,19:00:00
+374,Paris Hilton,The Library,138,Sunday 30 July 2023,19:00:00,20:00:00
+375,MATTN,The Library,138,Sunday 30 July 2023,20:00:00,21:00:00
+376,AFROJACK,The Library,138,Sunday 30 July 2023,21:00:00,22:00:00
+377,Dimitri Vegas & Like Mike vs Timmy Trumpet,The Library,138,Sunday 30 July 2023,22:00:00,23:00:00
+378,Brennan Heart,The Library,138,Sunday 30 July 2023,23:00:00,00:00:00
+379,Frank Mellemans,Moosebar,138,Sunday 30 July 2023,12:00:00,16:00:00
+380,Les Mecs Eclectics,Moosebar,138,Sunday 30 July 2023,16:00:00,19:00:00
+381,Dorothee Vegas & Like Maarten,Moosebar,138,Sunday 30 July 2023,19:00:00,20:00:00
+382,Kurt Verheyen,Moosebar,138,Sunday 30 July 2023,20:00:00,00:00:00
